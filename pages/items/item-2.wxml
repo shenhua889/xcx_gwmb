@@ -1,2 +1,14 @@
 <!--pages/items/item-2.wxml-->
-<text>pages/items/item-2.wxml</text>
+<view class='container'>
+  <view class='body'>
+    <image src='../../image/item_2.jpg'></image>
+    <text>
+
+    
+      111111111111111111111
+      111111111111111111111111
+      111111111111111111111
+      111111111111111111
+    </text>
+  </view>
+</view>

@@ -10,10 +10,9 @@
 
       XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
       XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
     </text>
   </view>
   <view class='bottom'>
-    <map longitude='120.1835834' latitude='30.2462305' markers='{{marker}}' class='map'></map>
+    <map longitude='120.1835834' latitude='30.2462305' markers='{{marker}}' class='map' bindtap='mapclick'></map>
   </view>
 </view>

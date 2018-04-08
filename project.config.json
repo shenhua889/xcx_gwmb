@@ -29,12 +29,13 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 0,
+			"current": -1,
 			"list": [
 				{
-					"id": -1,
-					"name": "跳转联系我们",
-					"pathName": "pages/contactus/contactus"
+					"id": 0,
+					"name": "跳转提交信息",
+					"pathName": "pages/items/item-1",
+					"query": ""
 				}
 			]
 		}

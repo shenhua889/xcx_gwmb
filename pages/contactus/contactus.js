@@ -11,6 +11,12 @@ Page({
       longitude: 120.1835693,
     }],
   },
+  mapclick:function(){
+    wx.openLocation({
+      latitude: 30.2462305,
+      longitude: 120.1835834
+    })
+  },
 
   /**
    * 生命周期函数--监听页面加载
